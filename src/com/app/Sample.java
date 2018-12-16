@@ -9,7 +9,7 @@ public class Sample {
 	
 //DBTransactions.insertData(emp);
 //DBTransactions.GetRecord(1);
-//DBTransactions.GetData();
+DBTransactions.GetData();
 	
 
 //Employee emp2=new Employee(8,"shiva","abc@gmail.com","hyd","8688");
