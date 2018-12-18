@@ -13,11 +13,11 @@ public class Sample {
 	
 
 //Employee emp2=new Employee(8,"shiva","abc@gmail.com","hyd","8688");
-DBTransactions.updateData(emp2);
+//DBTransactions.updateData(emp2);
 
 		
-		
-DBTransactions.deleteData(7);		
+		//yes from eclipse to git branch
+//DBTransactions.deleteData(7);		
 		
 	}
 }
